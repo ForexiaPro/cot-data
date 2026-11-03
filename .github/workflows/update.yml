@@ -1,0 +1,44 @@
+name: Update COT data
+
+# The CFTC releases the Commitments of Traders on Friday at 15:30 New York
+# (19:30 UTC in summer time, 20:30 in winter), for positions as of Tuesday.
+# A federal holiday moves the release to the next business day, hence the
+# Saturday retry and the Monday and Tuesday runs. A run with no new report
+# changes no file and commits nothing.
+on:
+  schedule:
+    - cron: '45 20 * * 5'   # Friday, after the release in summer time
+    - cron: '45 21 * * 5'   # Friday, after the release in winter time
+    - cron: '0 14 * * 6'    # Saturday retry
+    - cron: '0 22 * * 1,2'  # holiday weeks
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node --test scripts/cot.test.mjs
+      - run: node scripts/update.mjs
+      - name: Commit the new report
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No new report."
+            exit 0
+          fi
+          date=$(node -p "require('./data/latest.json').report_date")
+          git config user.name "cot-data"
+          git config user.email "cot-data@users.noreply.github.com"
+          git commit -m "COT report of $date"
+          git push

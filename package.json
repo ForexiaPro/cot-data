@@ -1,0 +1,11 @@
+{
+  "name": "cot-data",
+  "private": true,
+  "type": "module",
+  "description": "Weekly CFTC Commitments of Traders data for FX futures, the dollar index and gold: positions only.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "test": "node --test scripts/cot.test.mjs && cd js && node --test test.js"
+  }
+}

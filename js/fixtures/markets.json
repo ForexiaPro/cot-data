@@ -1,0 +1,217 @@
+{
+  "markets": [
+    {
+      "id": "EUR",
+      "name": "Euro FX",
+      "code": "099741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/EUR.csv",
+          "json": "data/legacy/EUR.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/EUR.csv",
+          "json": "data/tff/EUR.json"
+        }
+      }
+    },
+    {
+      "id": "GBP",
+      "name": "British pound",
+      "code": "096742",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/GBP.csv",
+          "json": "data/legacy/GBP.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/GBP.csv",
+          "json": "data/tff/GBP.json"
+        }
+      }
+    },
+    {
+      "id": "JPY",
+      "name": "Japanese yen",
+      "code": "097741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/JPY.csv",
+          "json": "data/legacy/JPY.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/JPY.csv",
+          "json": "data/tff/JPY.json"
+        }
+      }
+    },
+    {
+      "id": "CHF",
+      "name": "Swiss franc",
+      "code": "092741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/CHF.csv",
+          "json": "data/legacy/CHF.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/CHF.csv",
+          "json": "data/tff/CHF.json"
+        }
+      }
+    },
+    {
+      "id": "CAD",
+      "name": "Canadian dollar",
+      "code": "090741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/CAD.csv",
+          "json": "data/legacy/CAD.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/CAD.csv",
+          "json": "data/tff/CAD.json"
+        }
+      }
+    },
+    {
+      "id": "AUD",
+      "name": "Australian dollar",
+      "code": "232741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/AUD.csv",
+          "json": "data/legacy/AUD.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/AUD.csv",
+          "json": "data/tff/AUD.json"
+        }
+      }
+    },
+    {
+      "id": "NZD",
+      "name": "New Zealand dollar",
+      "code": "112741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/NZD.csv",
+          "json": "data/legacy/NZD.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/NZD.csv",
+          "json": "data/tff/NZD.json"
+        }
+      }
+    },
+    {
+      "id": "MXN",
+      "name": "Mexican peso",
+      "code": "095741",
+      "exchange": "CME",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/MXN.csv",
+          "json": "data/legacy/MXN.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/MXN.csv",
+          "json": "data/tff/MXN.json"
+        }
+      }
+    },
+    {
+      "id": "USD",
+      "name": "US dollar index",
+      "code": "098662",
+      "exchange": "ICE Futures U.S.",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/USD.csv",
+          "json": "data/legacy/USD.json"
+        },
+        "tff": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/tff/USD.csv",
+          "json": "data/tff/USD.json"
+        }
+      }
+    },
+    {
+      "id": "XAU",
+      "name": "Gold",
+      "code": "088691",
+      "exchange": "COMEX",
+      "reports": {
+        "legacy": {
+          "first": "2010-01-05",
+          "last": "2026-10-27",
+          "weeks": 878,
+          "csv": "data/legacy/XAU.csv",
+          "json": "data/legacy/XAU.json"
+        }
+      }
+    }
+  ]
+}

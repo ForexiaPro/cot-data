@@ -1,0 +1,8 @@
+{
+  "title": "COT Report Data: FX Futures and Gold, Weekly",
+  "subtitle": "CFTC Commitments of Traders positions, legacy and TFF",
+  "id": "forexia/cot-report-data",
+  "licenses": [{ "name": "other" }],
+  "keywords": ["finance", "investing", "currencies", "time series", "economics"],
+  "description": "See docs/kaggle.md in github.com/ForexiaPro/cot-data for the full description. Positions only. CFTC Commitments of Traders (public domain). Compiled by Forexia: https://forexiapro.com/cot-report/?via=cot-data. For Forexia's COT index and weekly reading: https://forexiapro.com/cot-report/?via=cot-data"
+}

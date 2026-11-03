@@ -1,0 +1,30 @@
+{
+  "name": "forexia-cot",
+  "version": "1.0.0",
+  "description": "CFTC Commitments of Traders (COT) data for FX futures and gold, legacy and TFF reports: positions, net and net as a share of open interest. Weekly, since 2010. No dependencies.",
+  "type": "module",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.js"
+    }
+  },
+  "files": ["index.js", "index.d.ts", "README.md", "LICENSE"],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "keywords": ["cot", "cot report", "commitments of traders", "cftc", "forex", "positioning", "futures", "gold", "trading data"],
+  "homepage": "https://github.com/ForexiaPro/cot-data#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForexiaPro/cot-data.git",
+    "directory": "js"
+  },
+  "author": "Forexia (https://forexiapro.com)",
+  "license": "MIT"
+}
