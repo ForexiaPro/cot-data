@@ -1,4 +1,4 @@
-{"market":"CHF","name":"Swiss franc","cftc_code":"092741","exchange":"CME","report":"tff","source":"CFTC Commitments of Traders, TFF (Traders in Financial Futures) - Futures Only (publicreporting.cftc.gov, dataset gpe5-46if)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","dealer_long","dealer_short","dealer_net","dealer_net_pct_oi","asset_manager_long","asset_manager_short","asset_manager_net","asset_manager_net_pct_oi","leveraged_funds_long","leveraged_funds_short","leveraged_funds_net","leveraged_funds_net_pct_oi","other_reportable_long","other_reportable_short","other_reportable_net","other_reportable_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"CHF","name":"Swiss franc","cftc_code":"092741","exchange":"CME","report":"tff","source":"CFTC Commitments of Traders, TFF (Traders in Financial Futures) - Futures Only (publicreporting.cftc.gov, dataset gpe5-46if)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","dealer_long","dealer_short","dealer_net","dealer_net_pct_oi","asset_manager_long","asset_manager_short","asset_manager_net","asset_manager_net_pct_oi","leveraged_funds_long","leveraged_funds_short","leveraged_funds_net","leveraged_funds_net_pct_oi","other_reportable_long","other_reportable_short","other_reportable_net","other_reportable_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",35161,12025,8765,3260,9.27,1093,1106,-13,-0.04,10459,14581,-4122,-11.72,0,0,0,0,11413,10538,875,2.49],
 ["2010-01-12",38204,6222,21892,-15670,-41.02,1085,1016,69,0.18,16095,4648,11447,29.96,0,0,0,0,14565,10411,4154,10.87],
 ["2010-01-19",37744,6738,24772,-18034,-47.78,984,1036,-52,-0.14,14408,2622,11786,31.23,618,0,618,1.64,14587,8905,5682,15.05],
@@ -876,5 +876,6 @@
 ["2026-10-06",137185,82560,20932,61628,44.92,19529,56908,-37379,-27.25,12900,24250,-11350,-8.27,1550,903,647,0.47,10391,23937,-13546,-9.87],
 ["2026-10-13",137185,83115,23601,59514,43.38,22676,54132,-31456,-22.93,9935,24876,-14941,-10.89,1550,473,1077,0.79,9621,23815,-14194,-10.35],
 ["2026-10-20",136451,78398,23755,54643,40.05,26680,52215,-25535,-18.71,10101,23708,-13607,-9.97,1550,1184,366,0.27,8431,24298,-15867,-11.63],
-["2026-10-27",135489,77945,21738,56207,41.48,23343,48410,-25067,-18.5,8421,25923,-17502,-12.92,1150,1204,-54,-0.04,9539,23123,-13584,-10.03]
+["2026-10-27",135489,77945,21738,56207,41.48,23343,48410,-25067,-18.5,8421,25923,-17502,-12.92,1150,1204,-54,-0.04,9539,23123,-13584,-10.03],
+["2026-11-03",133162,75159,23641,51518,38.69,26973,47826,-20853,-15.66,7441,24286,-16845,-12.65,1150,1767,-617,-0.46,9986,23189,-13203,-9.91]
 ]}

@@ -1,4 +1,4 @@
-{"market":"AUD","name":"Australian dollar","cftc_code":"232741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"AUD","name":"Australian dollar","cftc_code":"232741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",108728,62114,15006,41,47108,43.33,20892,83608,-62716,-57.68,25681,10073,15608,14.36],
 ["2010-01-12",126970,73240,13888,136,59352,46.74,23798,100860,-77062,-60.69,29796,12086,17710,13.95],
 ["2010-01-19",133086,77331,14480,749,62851,47.23,24229,107538,-83309,-62.6,30777,10319,20458,15.37],
@@ -876,5 +876,6 @@
 ["2026-10-06",328682,100138,198726,2406,-98588,-29.99,193742,108650,85092,25.89,32396,18900,13496,4.11],
 ["2026-10-13",339464,98389,215688,2404,-117299,-34.55,207131,100761,106370,31.33,31540,20611,10929,3.22],
 ["2026-10-20",333010,98419,225711,1279,-127292,-38.22,201947,87022,114925,34.51,31365,18998,12367,3.71],
-["2026-10-27",325008,101057,229372,1277,-128315,-39.48,190329,79094,111235,34.23,32345,15265,17080,5.26]
+["2026-10-27",325008,101057,229372,1277,-128315,-39.48,190329,79094,111235,34.23,32345,15265,17080,5.26],
+["2026-11-03",328599,101093,230550,1276,-129457,-39.4,192945,80262,112683,34.29,33285,16511,16774,5.1]
 ]}

@@ -1,4 +1,4 @@
-{"market":"XAU","name":"Gold","cftc_code":"088691","exchange":"COMEX","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"XAU","name":"Gold","cftc_code":"088691","exchange":"COMEX","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",507643,263008,35241,67958,227767,44.87,98195,376746,-278551,-54.87,78482,27698,50784,10],
 ["2010-01-12",523266,271260,41918,75955,229342,43.83,100451,382939,-282488,-53.99,75600,22454,53146,10.16],
 ["2010-01-19",528924,261276,39807,82893,221469,41.87,109197,382844,-273647,-51.74,75558,23380,52178,9.86],
@@ -876,5 +876,6 @@
 ["2026-10-06",396109,245403,35068,44440,210335,53.1,55802,300329,-244527,-61.73,50464,16272,34192,8.63],
 ["2026-10-13",396345,245300,37421,45895,207879,52.45,54419,296950,-242531,-61.19,50731,16079,34652,8.74],
 ["2026-10-20",402279,237142,37277,54199,199865,49.68,59531,295113,-235582,-58.56,51407,15690,35717,8.88],
-["2026-10-27",396810,223724,37273,60355,186451,46.99,64109,279733,-215624,-54.34,48622,19449,29173,7.35]
+["2026-10-27",396810,223724,37273,60355,186451,46.99,64109,279733,-215624,-54.34,48622,19449,29173,7.35],
+["2026-11-03",399169,220530,40982,68289,179548,44.98,64326,269228,-204902,-51.33,46024,20670,25354,6.35]
 ]}

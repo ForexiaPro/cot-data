@@ -1,4 +1,4 @@
-{"market":"GBP","name":"British pound","cftc_code":"096742","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"GBP","name":"British pound","cftc_code":"096742","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",92891,18031,51595,44,-33564,-36.13,60287,14463,45824,49.33,14529,26789,-12260,-13.2],
 ["2010-01-12",89147,15182,50649,110,-35467,-39.78,56340,11583,44757,50.21,17515,26805,-9290,-10.42],
 ["2010-01-19",83337,21199,41370,419,-20171,-24.2,41982,17464,24518,29.42,19737,24084,-4347,-5.22],
@@ -876,5 +876,6 @@
 ["2026-10-06",265890,45259,142870,2899,-97611,-36.71,197105,85238,111867,42.07,20627,34883,-14256,-5.36],
 ["2026-10-13",268532,44185,151149,3245,-106964,-39.83,199291,77847,121444,45.23,21811,36291,-14480,-5.39],
 ["2026-10-20",254060,54228,134648,2817,-80420,-31.65,174081,78573,95508,37.59,22934,38022,-15088,-5.94],
-["2026-10-27",253937,56645,136059,3164,-79414,-31.27,170983,81085,89898,35.4,23145,33629,-10484,-4.13]
+["2026-10-27",253937,56645,136059,3164,-79414,-31.27,170983,81085,89898,35.4,23145,33629,-10484,-4.13],
+["2026-11-03",245590,63780,123601,4559,-59821,-24.36,152021,83022,68999,28.1,25230,34408,-9178,-3.74]
 ]}

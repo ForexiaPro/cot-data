@@ -1,4 +1,4 @@
-{"market":"MXN","name":"Mexican peso","cftc_code":"095741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"MXN","name":"Mexican peso","cftc_code":"095741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",96759,69341,7354,245,61987,64.06,21314,87103,-65789,-67.99,5859,2057,3802,3.93],
 ["2010-01-12",104662,81605,5708,243,75897,72.52,16012,97131,-81119,-77.51,6802,1580,5222,4.99],
 ["2010-01-19",112382,87090,7843,228,79247,70.52,17005,102528,-85523,-76.1,8059,1783,6276,5.58],
@@ -876,5 +876,6 @@
 ["2026-10-06",290507,98697,87996,1192,10701,3.68,185017,197718,-12701,-4.37,5601,3601,2000,0.69],
 ["2026-10-13",279007,89527,74285,2476,15242,5.46,181918,198014,-16096,-5.77,5086,4232,854,0.31],
 ["2026-10-20",278165,90409,73386,2492,17023,6.12,179767,197593,-17826,-6.41,5497,4694,803,0.29],
-["2026-10-27",279359,95865,75022,2434,20843,7.46,175953,197119,-21166,-7.58,5107,4784,323,0.12]
+["2026-10-27",279359,95865,75022,2434,20843,7.46,175953,197119,-21166,-7.58,5107,4784,323,0.12],
+["2026-11-03",283227,98323,80306,2697,18017,6.36,177374,195635,-18261,-6.45,4833,4589,244,0.09]
 ]}

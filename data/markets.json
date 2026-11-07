@@ -8,15 +8,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/EUR.csv",
           "json": "data/legacy/EUR.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/EUR.csv",
           "json": "data/tff/EUR.json"
         }
@@ -30,15 +30,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/GBP.csv",
           "json": "data/legacy/GBP.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/GBP.csv",
           "json": "data/tff/GBP.json"
         }
@@ -52,15 +52,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/JPY.csv",
           "json": "data/legacy/JPY.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/JPY.csv",
           "json": "data/tff/JPY.json"
         }
@@ -74,15 +74,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/CHF.csv",
           "json": "data/legacy/CHF.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/CHF.csv",
           "json": "data/tff/CHF.json"
         }
@@ -96,15 +96,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/CAD.csv",
           "json": "data/legacy/CAD.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/CAD.csv",
           "json": "data/tff/CAD.json"
         }
@@ -118,15 +118,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/AUD.csv",
           "json": "data/legacy/AUD.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/AUD.csv",
           "json": "data/tff/AUD.json"
         }
@@ -140,15 +140,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/NZD.csv",
           "json": "data/legacy/NZD.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/NZD.csv",
           "json": "data/tff/NZD.json"
         }
@@ -162,15 +162,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/MXN.csv",
           "json": "data/legacy/MXN.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/MXN.csv",
           "json": "data/tff/MXN.json"
         }
@@ -184,15 +184,15 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/USD.csv",
           "json": "data/legacy/USD.json"
         },
         "tff": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/tff/USD.csv",
           "json": "data/tff/USD.json"
         }
@@ -206,8 +206,8 @@
       "reports": {
         "legacy": {
           "first": "2010-01-05",
-          "last": "2026-10-27",
-          "weeks": 878,
+          "last": "2026-11-03",
+          "weeks": 879,
           "csv": "data/legacy/XAU.csv",
           "json": "data/legacy/XAU.json"
         }

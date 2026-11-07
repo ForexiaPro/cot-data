@@ -1,500 +1,500 @@
 {
-  "report_date": "2026-10-27",
-  "released": "2026-10-30T19:30:00.000Z",
+  "report_date": "2026-11-03",
+  "released": "2026-11-06T20:30:00.000Z",
   "source": "CFTC Commitments of Traders (public domain). Compiled by Forexia: https://forexiapro.com/cot-report/?via=cot-data",
   "markets": [
     {
       "id": "EUR",
       "name": "Euro FX",
       "code": "099741",
-      "report_date": "2026-10-27",
-      "open_interest": 868188,
+      "report_date": "2026-11-03",
+      "open_interest": 876122,
       "legacy": {
         "noncommercial": {
-          "net": -143894,
-          "net_change_1w": -9370,
-          "net_pct_oi": -16.57
+          "net": -157791,
+          "net_change_1w": -13897,
+          "net_pct_oi": -18.01
         },
         "commercial": {
-          "net": 114484,
-          "net_change_1w": 9589,
-          "net_pct_oi": 13.19
+          "net": 124851,
+          "net_change_1w": 10367,
+          "net_pct_oi": 14.25
         },
         "nonreportable": {
-          "net": 29410,
-          "net_change_1w": -219,
-          "net_pct_oi": 3.39
+          "net": 32940,
+          "net_change_1w": 3530,
+          "net_pct_oi": 3.76
         }
       },
       "tff": {
         "dealer": {
-          "net": -138016,
-          "net_change_1w": 17702,
-          "net_pct_oi": -15.9
+          "net": -109285,
+          "net_change_1w": 28731,
+          "net_pct_oi": -12.47
         },
         "asset_manager": {
-          "net": 173249,
-          "net_change_1w": -17172,
-          "net_pct_oi": 19.96
+          "net": 144925,
+          "net_change_1w": -28324,
+          "net_pct_oi": 16.54
         },
         "leveraged_funds": {
-          "net": -71574,
-          "net_change_1w": -2734,
-          "net_pct_oi": -8.24
+          "net": -78559,
+          "net_change_1w": -6985,
+          "net_pct_oi": -8.97
         },
         "other_reportable": {
-          "net": 6931,
-          "net_change_1w": 2423,
-          "net_pct_oi": 0.8
+          "net": 9979,
+          "net_change_1w": 3048,
+          "net_pct_oi": 1.14
         },
         "nonreportable": {
-          "net": 29410,
-          "net_change_1w": -219,
-          "net_pct_oi": 3.39
+          "net": 32940,
+          "net_change_1w": 3530,
+          "net_pct_oi": 3.76
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "GBP",
       "name": "British pound",
       "code": "096742",
-      "report_date": "2026-10-27",
-      "open_interest": 253937,
+      "report_date": "2026-11-03",
+      "open_interest": 245590,
       "legacy": {
         "noncommercial": {
-          "net": -79414,
-          "net_change_1w": 1006,
-          "net_pct_oi": -31.27
+          "net": -59821,
+          "net_change_1w": 19593,
+          "net_pct_oi": -24.36
         },
         "commercial": {
-          "net": 89898,
-          "net_change_1w": -5610,
-          "net_pct_oi": 35.4
+          "net": 68999,
+          "net_change_1w": -20899,
+          "net_pct_oi": 28.1
         },
         "nonreportable": {
-          "net": -10484,
-          "net_change_1w": 4604,
-          "net_pct_oi": -4.13
+          "net": -9178,
+          "net_change_1w": 1306,
+          "net_pct_oi": -3.74
         }
       },
       "tff": {
         "dealer": {
-          "net": 121697,
-          "net_change_1w": -3423,
-          "net_pct_oi": 47.92
+          "net": 103193,
+          "net_change_1w": -18504,
+          "net_pct_oi": 42.02
         },
         "asset_manager": {
-          "net": -128893,
-          "net_change_1w": 5728,
-          "net_pct_oi": -50.76
+          "net": -121163,
+          "net_change_1w": 7730,
+          "net_pct_oi": -49.34
         },
         "leveraged_funds": {
-          "net": 17195,
-          "net_change_1w": -6909,
-          "net_pct_oi": 6.77
+          "net": 26663,
+          "net_change_1w": 9468,
+          "net_pct_oi": 10.86
         },
         "other_reportable": {
           "net": 485,
           "net_change_1w": 0,
-          "net_pct_oi": 0.19
+          "net_pct_oi": 0.2
         },
         "nonreportable": {
-          "net": -10484,
-          "net_change_1w": 4604,
-          "net_pct_oi": -4.13
+          "net": -9178,
+          "net_change_1w": 1306,
+          "net_pct_oi": -3.74
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "JPY",
       "name": "Japanese yen",
       "code": "097741",
-      "report_date": "2026-10-27",
-      "open_interest": 374026,
+      "report_date": "2026-11-03",
+      "open_interest": 380641,
       "legacy": {
         "noncommercial": {
-          "net": 101591,
-          "net_change_1w": 31713,
-          "net_pct_oi": 27.16
+          "net": 102321,
+          "net_change_1w": 730,
+          "net_pct_oi": 26.88
         },
         "commercial": {
-          "net": -105090,
-          "net_change_1w": -34003,
-          "net_pct_oi": -28.1
+          "net": -103167,
+          "net_change_1w": 1923,
+          "net_pct_oi": -27.1
         },
         "nonreportable": {
-          "net": 3499,
-          "net_change_1w": 2290,
-          "net_pct_oi": 0.94
+          "net": 846,
+          "net_change_1w": -2653,
+          "net_pct_oi": 0.22
         }
       },
       "tff": {
         "dealer": {
-          "net": -130739,
-          "net_change_1w": -31449,
-          "net_pct_oi": -34.95
+          "net": -122884,
+          "net_change_1w": 7855,
+          "net_pct_oi": -32.28
         },
         "asset_manager": {
-          "net": 91191,
-          "net_change_1w": 12088,
-          "net_pct_oi": 24.38
+          "net": 79387,
+          "net_change_1w": -11804,
+          "net_pct_oi": 20.86
         },
         "leveraged_funds": {
-          "net": -14630,
-          "net_change_1w": 8260,
-          "net_pct_oi": -3.91
+          "net": -14817,
+          "net_change_1w": -187,
+          "net_pct_oi": -3.89
         },
         "other_reportable": {
-          "net": 50679,
-          "net_change_1w": 8811,
-          "net_pct_oi": 13.55
+          "net": 57468,
+          "net_change_1w": 6789,
+          "net_pct_oi": 15.1
         },
         "nonreportable": {
-          "net": 3499,
-          "net_change_1w": 2290,
-          "net_pct_oi": 0.94
+          "net": 846,
+          "net_change_1w": -2653,
+          "net_pct_oi": 0.22
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "CHF",
       "name": "Swiss franc",
       "code": "092741",
-      "report_date": "2026-10-27",
-      "open_interest": 135489,
+      "report_date": "2026-11-03",
+      "open_interest": 133162,
       "legacy": {
         "noncommercial": {
-          "net": -20049,
-          "net_change_1w": -1899,
-          "net_pct_oi": -14.8
+          "net": -16589,
+          "net_change_1w": 3460,
+          "net_pct_oi": -12.46
         },
         "commercial": {
-          "net": 33633,
-          "net_change_1w": -384,
-          "net_pct_oi": 24.82
+          "net": 29792,
+          "net_change_1w": -3841,
+          "net_pct_oi": 22.37
         },
         "nonreportable": {
-          "net": -13584,
-          "net_change_1w": 2283,
-          "net_pct_oi": -10.03
+          "net": -13203,
+          "net_change_1w": 381,
+          "net_pct_oi": -9.91
         }
       },
       "tff": {
         "dealer": {
-          "net": 56207,
-          "net_change_1w": 1564,
-          "net_pct_oi": 41.48
+          "net": 51518,
+          "net_change_1w": -4689,
+          "net_pct_oi": 38.69
         },
         "asset_manager": {
-          "net": -25067,
-          "net_change_1w": 468,
-          "net_pct_oi": -18.5
+          "net": -20853,
+          "net_change_1w": 4214,
+          "net_pct_oi": -15.66
         },
         "leveraged_funds": {
-          "net": -17502,
-          "net_change_1w": -3895,
-          "net_pct_oi": -12.92
+          "net": -16845,
+          "net_change_1w": 657,
+          "net_pct_oi": -12.65
         },
         "other_reportable": {
-          "net": -54,
-          "net_change_1w": -420,
-          "net_pct_oi": -0.04
+          "net": -617,
+          "net_change_1w": -563,
+          "net_pct_oi": -0.46
         },
         "nonreportable": {
-          "net": -13584,
-          "net_change_1w": 2283,
-          "net_pct_oi": -10.03
+          "net": -13203,
+          "net_change_1w": 381,
+          "net_pct_oi": -9.91
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "CAD",
       "name": "Canadian dollar",
       "code": "090741",
-      "report_date": "2026-10-27",
-      "open_interest": 360941,
+      "report_date": "2026-11-03",
+      "open_interest": 348660,
       "legacy": {
         "noncommercial": {
-          "net": -66424,
-          "net_change_1w": 8285,
-          "net_pct_oi": -18.4
+          "net": -41775,
+          "net_change_1w": 24649,
+          "net_pct_oi": -11.98
         },
         "commercial": {
-          "net": 74260,
-          "net_change_1w": -12588,
-          "net_pct_oi": 20.57
+          "net": 49384,
+          "net_change_1w": -24876,
+          "net_pct_oi": 14.16
         },
         "nonreportable": {
-          "net": -7836,
-          "net_change_1w": 4303,
-          "net_pct_oi": -2.17
+          "net": -7609,
+          "net_change_1w": 227,
+          "net_pct_oi": -2.18
         }
       },
       "tff": {
         "dealer": {
-          "net": 95809,
-          "net_change_1w": -4989,
-          "net_pct_oi": 26.54
+          "net": 67754,
+          "net_change_1w": -28055,
+          "net_pct_oi": 19.43
         },
         "asset_manager": {
-          "net": -1325,
-          "net_change_1w": 4074,
-          "net_pct_oi": -0.37
+          "net": 16453,
+          "net_change_1w": 17778,
+          "net_pct_oi": 4.72
         },
         "leveraged_funds": {
-          "net": -96747,
-          "net_change_1w": -5634,
-          "net_pct_oi": -26.8
+          "net": -86302,
+          "net_change_1w": 10445,
+          "net_pct_oi": -24.75
         },
         "other_reportable": {
-          "net": 10099,
-          "net_change_1w": 2246,
-          "net_pct_oi": 2.8
+          "net": 9704,
+          "net_change_1w": -395,
+          "net_pct_oi": 2.78
         },
         "nonreportable": {
-          "net": -7836,
-          "net_change_1w": 4303,
-          "net_pct_oi": -2.17
+          "net": -7609,
+          "net_change_1w": 227,
+          "net_pct_oi": -2.18
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "AUD",
       "name": "Australian dollar",
       "code": "232741",
-      "report_date": "2026-10-27",
-      "open_interest": 325008,
+      "report_date": "2026-11-03",
+      "open_interest": 328599,
       "legacy": {
         "noncommercial": {
-          "net": -128315,
-          "net_change_1w": -1023,
-          "net_pct_oi": -39.48
+          "net": -129457,
+          "net_change_1w": -1142,
+          "net_pct_oi": -39.4
         },
         "commercial": {
-          "net": 111235,
-          "net_change_1w": -3690,
-          "net_pct_oi": 34.23
+          "net": 112683,
+          "net_change_1w": 1448,
+          "net_pct_oi": 34.29
         },
         "nonreportable": {
-          "net": 17080,
-          "net_change_1w": 4713,
-          "net_pct_oi": 5.26
+          "net": 16774,
+          "net_change_1w": -306,
+          "net_pct_oi": 5.1
         }
       },
       "tff": {
         "dealer": {
-          "net": 55637,
-          "net_change_1w": -4637,
-          "net_pct_oi": 17.12
+          "net": 60967,
+          "net_change_1w": 5330,
+          "net_pct_oi": 18.55
         },
         "asset_manager": {
-          "net": -125237,
-          "net_change_1w": 3502,
-          "net_pct_oi": -38.53
+          "net": -130780,
+          "net_change_1w": -5543,
+          "net_pct_oi": -39.8
         },
         "leveraged_funds": {
-          "net": 48414,
-          "net_change_1w": -4083,
-          "net_pct_oi": 14.9
+          "net": 50106,
+          "net_change_1w": 1692,
+          "net_pct_oi": 15.25
         },
         "other_reportable": {
-          "net": 4106,
-          "net_change_1w": 505,
-          "net_pct_oi": 1.26
+          "net": 2933,
+          "net_change_1w": -1173,
+          "net_pct_oi": 0.89
         },
         "nonreportable": {
-          "net": 17080,
-          "net_change_1w": 4713,
-          "net_pct_oi": 5.26
+          "net": 16774,
+          "net_change_1w": -306,
+          "net_pct_oi": 5.1
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "NZD",
       "name": "New Zealand dollar",
       "code": "112741",
-      "report_date": "2026-10-27",
-      "open_interest": 129053,
+      "report_date": "2026-11-03",
+      "open_interest": 132550,
       "legacy": {
         "noncommercial": {
-          "net": -57690,
-          "net_change_1w": 459,
-          "net_pct_oi": -44.7
+          "net": -60015,
+          "net_change_1w": -2325,
+          "net_pct_oi": -45.28
         },
         "commercial": {
-          "net": 59546,
-          "net_change_1w": -876,
-          "net_pct_oi": 46.14
+          "net": 62729,
+          "net_change_1w": 3183,
+          "net_pct_oi": 47.32
         },
         "nonreportable": {
-          "net": -1856,
-          "net_change_1w": 417,
-          "net_pct_oi": -1.44
+          "net": -2714,
+          "net_change_1w": -858,
+          "net_pct_oi": -2.05
         }
       },
       "tff": {
         "dealer": {
-          "net": 68000,
-          "net_change_1w": 718,
-          "net_pct_oi": 52.69
+          "net": 69388,
+          "net_change_1w": 1388,
+          "net_pct_oi": 52.35
         },
         "asset_manager": {
-          "net": -46841,
-          "net_change_1w": 2472,
-          "net_pct_oi": -36.3
+          "net": -46700,
+          "net_change_1w": 141,
+          "net_pct_oi": -35.23
         },
         "leveraged_funds": {
-          "net": -22554,
-          "net_change_1w": -3274,
-          "net_pct_oi": -17.48
+          "net": -23154,
+          "net_change_1w": -600,
+          "net_pct_oi": -17.47
         },
         "other_reportable": {
-          "net": 3251,
-          "net_change_1w": -333,
-          "net_pct_oi": 2.52
+          "net": 3180,
+          "net_change_1w": -71,
+          "net_pct_oi": 2.4
         },
         "nonreportable": {
-          "net": -1856,
-          "net_change_1w": 417,
-          "net_pct_oi": -1.44
+          "net": -2714,
+          "net_change_1w": -858,
+          "net_pct_oi": -2.05
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "MXN",
       "name": "Mexican peso",
       "code": "095741",
-      "report_date": "2026-10-27",
-      "open_interest": 279359,
+      "report_date": "2026-11-03",
+      "open_interest": 283227,
       "legacy": {
         "noncommercial": {
-          "net": 20843,
-          "net_change_1w": 3820,
-          "net_pct_oi": 7.46
+          "net": 18017,
+          "net_change_1w": -2826,
+          "net_pct_oi": 6.36
         },
         "commercial": {
-          "net": -21166,
-          "net_change_1w": -3340,
-          "net_pct_oi": -7.58
+          "net": -18261,
+          "net_change_1w": 2905,
+          "net_pct_oi": -6.45
         },
         "nonreportable": {
-          "net": 323,
-          "net_change_1w": -480,
-          "net_pct_oi": 0.12
+          "net": 244,
+          "net_change_1w": -79,
+          "net_pct_oi": 0.09
         }
       },
       "tff": {
         "dealer": {
-          "net": 12757,
-          "net_change_1w": -2495,
-          "net_pct_oi": 4.57
+          "net": 21184,
+          "net_change_1w": 8427,
+          "net_pct_oi": 7.48
         },
         "asset_manager": {
-          "net": -25201,
-          "net_change_1w": -1137,
-          "net_pct_oi": -9.02
+          "net": -36349,
+          "net_change_1w": -11148,
+          "net_pct_oi": -12.83
         },
         "leveraged_funds": {
-          "net": 68335,
-          "net_change_1w": 4521,
-          "net_pct_oi": 24.46
+          "net": 71381,
+          "net_change_1w": 3046,
+          "net_pct_oi": 25.2
         },
         "other_reportable": {
-          "net": -56214,
-          "net_change_1w": -409,
-          "net_pct_oi": -20.12
+          "net": -56460,
+          "net_change_1w": -246,
+          "net_pct_oi": -19.93
         },
         "nonreportable": {
-          "net": 323,
-          "net_change_1w": -480,
-          "net_pct_oi": 0.12
+          "net": 244,
+          "net_change_1w": -79,
+          "net_pct_oi": 0.09
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "USD",
       "name": "US dollar index",
       "code": "098662",
-      "report_date": "2026-10-27",
-      "open_interest": 48263,
+      "report_date": "2026-11-03",
+      "open_interest": 49091,
       "legacy": {
         "noncommercial": {
-          "net": 14121,
-          "net_change_1w": -923,
-          "net_pct_oi": 29.26
+          "net": 14190,
+          "net_change_1w": 69,
+          "net_pct_oi": 28.91
         },
         "commercial": {
-          "net": -16088,
-          "net_change_1w": 926,
-          "net_pct_oi": -33.33
+          "net": -16414,
+          "net_change_1w": -326,
+          "net_pct_oi": -33.44
         },
         "nonreportable": {
-          "net": 1967,
-          "net_change_1w": -3,
-          "net_pct_oi": 4.08
+          "net": 2224,
+          "net_change_1w": 257,
+          "net_pct_oi": 4.53
         }
       },
       "tff": {
         "dealer": {
-          "net": -19547,
-          "net_change_1w": 432,
-          "net_pct_oi": -40.5
+          "net": -19814,
+          "net_change_1w": -267,
+          "net_pct_oi": -40.36
         },
         "asset_manager": {
-          "net": 16713,
-          "net_change_1w": -307,
-          "net_pct_oi": 34.63
+          "net": 16820,
+          "net_change_1w": 107,
+          "net_pct_oi": 34.26
         },
         "leveraged_funds": {
-          "net": 3158,
-          "net_change_1w": -25,
-          "net_pct_oi": 6.54
+          "net": 3311,
+          "net_change_1w": 153,
+          "net_pct_oi": 6.74
         },
         "other_reportable": {
-          "net": -2291,
-          "net_change_1w": -97,
-          "net_pct_oi": -4.75
+          "net": -2541,
+          "net_change_1w": -250,
+          "net_pct_oi": -5.18
         },
         "nonreportable": {
-          "net": 1967,
-          "net_change_1w": -3,
-          "net_pct_oi": 4.08
+          "net": 2224,
+          "net_change_1w": 257,
+          "net_pct_oi": 4.53
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     },
     {
       "id": "XAU",
       "name": "Gold",
       "code": "088691",
-      "report_date": "2026-10-27",
-      "open_interest": 396810,
+      "report_date": "2026-11-03",
+      "open_interest": 399169,
       "legacy": {
         "noncommercial": {
-          "net": 186451,
-          "net_change_1w": -13414,
-          "net_pct_oi": 46.99
+          "net": 179548,
+          "net_change_1w": -6903,
+          "net_pct_oi": 44.98
         },
         "commercial": {
-          "net": -215624,
-          "net_change_1w": 19958,
-          "net_pct_oi": -54.34
+          "net": -204902,
+          "net_change_1w": 10722,
+          "net_pct_oi": -51.33
         },
         "nonreportable": {
-          "net": 29173,
-          "net_change_1w": -6544,
-          "net_pct_oi": 7.35
+          "net": 25354,
+          "net_change_1w": -3819,
+          "net_pct_oi": 6.35
         }
       },
-      "released": "2026-10-30T19:30:00.000Z"
+      "released": "2026-11-06T20:30:00.000Z"
     }
   ]
 }

@@ -1,4 +1,4 @@
-{"market":"NZD","name":"New Zealand dollar","cftc_code":"112741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"NZD","name":"New Zealand dollar","cftc_code":"112741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",23053,18106,5133,0,12973,56.27,1457,16490,-15033,-65.21,3490,1430,2060,8.94],
 ["2010-01-12",25732,21417,5734,0,15683,60.95,1196,18810,-17614,-68.45,3119,1188,1931,7.5],
 ["2010-01-19",26917,22397,6041,0,16356,60.76,1218,19664,-18446,-68.53,3302,1212,2090,7.76],
@@ -876,5 +876,6 @@
 ["2026-10-06",129883,27821,57167,626,-29346,-22.59,97032,65652,31380,24.16,4404,6438,-2034,-1.57],
 ["2026-10-13",125151,24619,71620,983,-47001,-37.56,94782,45807,48975,39.13,4767,6741,-1974,-1.58],
 ["2026-10-20",131413,21725,79874,351,-58149,-44.25,105028,44606,60422,45.98,4309,6582,-2273,-1.73],
-["2026-10-27",129053,18062,75752,408,-57690,-44.7,106324,46778,59546,46.14,4259,6115,-1856,-1.44]
+["2026-10-27",129053,18062,75752,408,-57690,-44.7,106324,46778,59546,46.14,4259,6115,-1856,-1.44],
+["2026-11-03",132550,18469,78484,463,-60015,-45.28,109563,46834,62729,47.32,4055,6769,-2714,-2.05]
 ]}

@@ -1,4 +1,4 @@
-{"market":"JPY","name":"Japanese yen","cftc_code":"097741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"JPY","name":"Japanese yen","cftc_code":"097741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",104231,20634,37445,41,-16811,-16.13,68983,41659,27324,26.21,14573,25086,-10513,-10.09],
 ["2010-01-12",120568,21951,38695,319,-16744,-13.89,82160,49902,32258,26.76,16138,31652,-15514,-12.87],
 ["2010-01-19",122367,23718,40814,407,-17096,-13.97,80293,51178,29115,23.79,17949,29968,-12019,-9.82],
@@ -876,5 +876,6 @@
 ["2026-10-06",368138,190368,128043,3004,62325,16.93,140231,201980,-61749,-16.77,34535,35111,-576,-0.16],
 ["2026-10-13",373502,191256,141049,3734,50207,13.44,143945,192532,-48587,-13.01,34567,36187,-1620,-0.43],
 ["2026-10-20",379141,200186,130308,2488,69878,18.43,141812,212899,-71087,-18.75,34655,33446,1209,0.32],
-["2026-10-27",374026,225516,123925,2260,101591,27.16,109221,214311,-105090,-28.1,37029,33530,3499,0.94]
+["2026-10-27",374026,225516,123925,2260,101591,27.16,109221,214311,-105090,-28.1,37029,33530,3499,0.94],
+["2026-11-03",380641,227198,124877,4152,102321,26.88,113315,216482,-103167,-27.1,35976,35130,846,0.22]
 ]}

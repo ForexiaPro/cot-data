@@ -1,4 +1,4 @@
-{"market":"CAD","name":"Canadian dollar","cftc_code":"090741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"CAD","name":"Canadian dollar","cftc_code":"090741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",107554,51736,11540,100,40196,37.37,13715,80381,-66666,-61.98,42003,15533,26470,24.61],
 ["2010-01-12",117310,60219,11524,70,48695,41.51,15139,89153,-74014,-63.09,41882,16563,25319,21.58],
 ["2010-01-19",120271,58048,11245,41,46803,38.91,17807,91505,-73698,-61.28,44375,17480,26895,22.36],
@@ -876,5 +876,6 @@
 ["2026-10-06",371048,91109,181272,4394,-90163,-24.3,248311,144809,103502,27.89,27234,40573,-13339,-3.59],
 ["2026-10-13",378204,89986,184751,4624,-94765,-25.06,254964,149351,105613,27.92,28630,39478,-10848,-2.87],
 ["2026-10-20",383635,101653,176362,5150,-74709,-19.47,250673,163825,86848,22.64,26159,38298,-12139,-3.16],
-["2026-10-27",360941,89942,156366,4133,-66424,-18.4,239393,165133,74260,20.57,27473,35309,-7836,-2.17]
+["2026-10-27",360941,89942,156366,4133,-66424,-18.4,239393,165133,74260,20.57,27473,35309,-7836,-2.17],
+["2026-11-03",348660,99234,141009,3679,-41775,-11.98,219508,170124,49384,14.16,26239,33848,-7609,-2.18]
 ]}

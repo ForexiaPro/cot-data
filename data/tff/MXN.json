@@ -1,4 +1,4 @@
-{"market":"MXN","name":"Mexican peso","cftc_code":"095741","exchange":"CME","report":"tff","source":"CFTC Commitments of Traders, TFF (Traders in Financial Futures) - Futures Only (publicreporting.cftc.gov, dataset gpe5-46if)","first":"2010-01-05","last":"2026-10-27","columns":["date","open_interest","dealer_long","dealer_short","dealer_net","dealer_net_pct_oi","asset_manager_long","asset_manager_short","asset_manager_net","asset_manager_net_pct_oi","leveraged_funds_long","leveraged_funds_short","leveraged_funds_net","leveraged_funds_net_pct_oi","other_reportable_long","other_reportable_short","other_reportable_net","other_reportable_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"MXN","name":"Mexican peso","cftc_code":"095741","exchange":"CME","report":"tff","source":"CFTC Commitments of Traders, TFF (Traders in Financial Futures) - Futures Only (publicreporting.cftc.gov, dataset gpe5-46if)","first":"2010-01-05","last":"2026-11-03","columns":["date","open_interest","dealer_long","dealer_short","dealer_net","dealer_net_pct_oi","asset_manager_long","asset_manager_short","asset_manager_net","asset_manager_net_pct_oi","leveraged_funds_long","leveraged_funds_short","leveraged_funds_net","leveraged_funds_net_pct_oi","other_reportable_long","other_reportable_short","other_reportable_net","other_reportable_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",96759,12034,84608,-72574,-75,9396,128,9268,9.58,67348,5884,61464,63.52,876,2836,-1960,-2.03,5859,2057,3802,3.93],
 ["2010-01-12",104662,7145,93378,-86233,-82.39,9534,128,9406,8.99,78097,4677,73420,70.15,1367,3182,-1815,-1.73,6802,1580,5222,4.99],
 ["2010-01-19",112382,7627,99792,-92165,-82.01,9561,128,9433,8.39,83220,5006,78214,69.6,1738,3496,-1758,-1.56,8059,1783,6276,5.58],
@@ -876,5 +876,6 @@
 ["2026-10-06",290507,105703,104482,1221,0.42,61727,82326,-20599,-7.09,112807,37880,74927,25.79,1067,58616,-57549,-19.81,5601,3601,2000,0.69],
 ["2026-10-13",279007,118147,104016,14131,5.06,56681,79052,-22371,-8.02,92590,29026,63564,22.78,1471,57649,-56178,-20.13,5086,4232,854,0.31],
 ["2026-10-20",278165,121502,106250,15252,5.48,53063,77127,-24064,-8.65,91748,27934,63814,22.94,1922,57727,-55805,-20.06,5497,4694,803,0.29],
-["2026-10-27",279359,120560,107803,12757,4.57,48101,73302,-25201,-9.02,99625,31290,68335,24.46,1476,57690,-56214,-20.12,5107,4784,323,0.12]
+["2026-10-27",279359,120560,107803,12757,4.57,48101,73302,-25201,-9.02,99625,31290,68335,24.46,1476,57690,-56214,-20.12,5107,4784,323,0.12],
+["2026-11-03",283227,128502,107318,21184,7.48,41406,77755,-36349,-12.83,101683,30302,71381,25.2,1453,57913,-56460,-19.93,4833,4589,244,0.09]
 ]}
