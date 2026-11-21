@@ -1,4 +1,4 @@
-{"market":"CHF","name":"Swiss franc","cftc_code":"092741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-10","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
+{"market":"CHF","name":"Swiss franc","cftc_code":"092741","exchange":"CME","report":"legacy","source":"CFTC Commitments of Traders, Legacy - Futures Only (publicreporting.cftc.gov, dataset 6dca-aqww)","first":"2010-01-05","last":"2026-11-17","columns":["date","open_interest","noncommercial_long","noncommercial_short","noncommercial_spreading","noncommercial_net","noncommercial_net_pct_oi","commercial_long","commercial_short","commercial_net","commercial_net_pct_oi","nonreportable_long","nonreportable_short","nonreportable_net","nonreportable_net_pct_oi"],"rows":[
 ["2010-01-05",35161,12488,15268,0,-2780,-7.91,11260,9355,1905,5.42,11413,10538,875,2.49],
 ["2010-01-12",38204,17213,3287,48,13926,36.45,6378,24458,-18080,-47.32,14565,10411,4154,10.87],
 ["2010-01-19",37744,17281,3310,176,13971,37.02,5700,25353,-19653,-52.07,14587,8905,5682,15.05],
@@ -878,5 +878,6 @@
 ["2026-10-20",136451,29938,48088,7561,-18150,-13.3,90521,56504,34017,24.93,8431,24298,-15867,-11.63],
 ["2026-10-27",135489,26254,46303,11357,-20049,-14.8,88339,54706,33633,24.82,9539,23123,-13584,-10.03],
 ["2026-11-03",133162,29482,46071,8651,-16589,-12.46,85043,55251,29792,22.37,9986,23189,-13203,-9.91],
-["2026-11-10",126378,32614,41767,6806,-9153,-7.24,76407,55530,20877,16.52,10551,22275,-11724,-9.28]
+["2026-11-10",126378,32614,41767,6806,-9153,-7.24,76407,55530,20877,16.52,10551,22275,-11724,-9.28],
+["2026-11-17",126410,33456,41737,6519,-8281,-6.55,74784,53946,20838,16.48,11651,24208,-12557,-9.93]
 ]}
